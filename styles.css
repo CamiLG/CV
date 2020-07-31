@@ -1,0 +1,53 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: lightgrey;
+    
+    font-size: 11pt;
+   
+}
+h1{
+    color: rgb(0, 32, 96);
+    font-size: 20pt;
+}
+h2{
+    color: rgb(7, 60, 143);
+    font-size: 11pt;
+    text-decoration: underline; 
+}
+h3{
+    margin-top: 0cm;
+    margin-bottom: 0cm;
+    color: rgb(0, 32, 96);
+    font-size: 11pt;
+}
+strong{
+    font-weight: normal;
+    text-decoration: underline;
+}
+div{
+    font-size: 11pt;
+    background-color: white;
+    padding-top: 2cm;
+    padding-left: 1.25cm;
+    padding-right: 1.25cm;
+    padding-bottom: 2cm;
+    width: 21.59cm;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p1{
+    margin-top: 0cm;
+    margin-bottom: 0cm;
+}
+#foto{
+    position: relative;
+    width: 5.18cm;
+    height: 4.36cm;
+    top: 0;
+    right: 0;
+    z-index: 5;
+    float: right;
+    display: block;
+}
