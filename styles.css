@@ -51,3 +51,6 @@ div{
     float: right;
     display: block;
 }
+#ulaux{
+    list-style-type: none;
+}
